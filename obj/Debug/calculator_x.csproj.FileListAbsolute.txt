@@ -4,3 +4,9 @@
 /Users/anastasiabasnina/Documents/calculator/calculator_x/bin/Debug/calculator_x.pdb
 /Users/anastasiabasnina/Documents/calculator/calculator_x/obj/Debug/calculator_x.exe
 /Users/anastasiabasnina/Documents/calculator/calculator_x/obj/Debug/calculator_x.pdb
+/Users/anastasiabasnina/Desktop/calculator_x/bin/Debug/calculator_x.exe
+/Users/anastasiabasnina/Desktop/calculator_x/bin/Debug/calculator_x.pdb
+/Users/anastasiabasnina/Desktop/calculator_x/obj/Debug/calculator_x.csproj.AssemblyReference.cache
+/Users/anastasiabasnina/Desktop/calculator_x/obj/Debug/calculator_x.csproj.CoreCompileInputs.cache
+/Users/anastasiabasnina/Desktop/calculator_x/obj/Debug/calculator_x.exe
+/Users/anastasiabasnina/Desktop/calculator_x/obj/Debug/calculator_x.pdb
